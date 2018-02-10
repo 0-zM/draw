@@ -1,0 +1,81 @@
+start 0 0 a a
+a 3 0 b b
+b -3 1 c c
+c 3 0 d d
+d -3 2 e e
+e 3 0 f f
+f 3 -3 i1_a i1_a
+
+
+i1_y 0 -2 i1_z i1_y
+i1_z 3 -1 i1_a i1_a
+i1_a -5 1 i1_b i1_b
+i1_b 0 2 i1_c i1_c
+i1_c 0 2 i1_d i1_e
+i1_d 0 2 i1_d i1_f
+
+i1_e 5 0 i2_z i2_y
+i1_f 5 0 i2_z i2_y
+
+
+i2_y 0 -2 i2_z i2_y
+i2_z 3 -1 i2_a i2_a
+i2_a -5 1 i2_b i2_b
+i2_b 0 2 i2_c i2_c
+i2_c 0 2 i2_d i2_e
+i2_d 0 2 i2_d i2_f
+
+i2_e 5 -2 i3_z i3_y
+i2_f 5 -2 i3_z i3_y
+
+
+i3_y 0 -2 i3_z i3_y
+i3_z 3 -1 i3_a i3_a
+i3_a -5 1 i3_b i3_b
+i3_b 0 2 i3_c i3_c
+i3_c 0 2 i3_d i3_e
+i3_d 0 2 i3_d i3_f
+
+i3_e 5 0 i4_z i4_y
+i3_f 5 0 i4_z i4_y
+
+
+i4_y 0 -2 i4_z i4_y
+i4_z 3 -1 i4_a i4_a
+i4_a -5 1 i4_b i4_b
+i4_b 0 2 i4_c i4_c
+i4_c 0 2 i4_d i4_e
+i4_d 0 2 i4_d i4_f
+
+i4_e 5 -2 i5_z i5_y
+i4_f 5 -2 i5_z i5_y
+
+
+i5_y 0 -2 i5_z i5_y
+i5_z 3 -1 i5_a i5_a
+i5_a -5 1 i5_b i5_b
+i5_b 0 2 i5_c i5_c
+i5_c 0 2 i5_d i5_e
+i5_d 0 2 i5_d i5_f
+
+i5_e 5 -2 i8_z i8_y
+i5_f 5 -4 i6_z i6_y
+
+
+i6_y 0 -2 i6_z i6_y
+i6_z 3 -1 i6_a i6_a
+i6_a -5 1 i6_b i6_b
+i6_b 0 2 i6_c i6_c
+i6_c 0 2 i6_d i6_e
+i6_d 0 2 i6_d i6_f
+
+i6_e 5 -2 i5_z i5_y
+i6_f 5 -2 i5_z i5_y
+
+
+i7_y 0 0 0 0
+i7_z 0 0 0 0
+
+
+i8_y 0 0 0 0
+i8_z 0 0 0 0
